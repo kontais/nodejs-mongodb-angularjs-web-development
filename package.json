@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-mongodb-angularjs-web-development",
+  "version": "1.0.0",
+  "description": "nodejs-mongodb-angularjs-web-development ========================================",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kontais/nodejs-mongodb-angularjs-web-development.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kontais/nodejs-mongodb-angularjs-web-development/issues"
+  },
+  "homepage": "https://github.com/kontais/nodejs-mongodb-angularjs-web-development#readme",
+  "dependencies": {
+    "mongodb": "^3.0.1"
+  }
+}

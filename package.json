@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/kontais/nodejs-mongodb-angularjs-web-development#readme",
   "dependencies": {
+    "express": "^4.16.2",
     "mongodb": "^3.0.1"
   }
 }

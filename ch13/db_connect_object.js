@@ -15,7 +15,7 @@ client.open(function(err, client) {
     var db = client.db("test");
     if (db){
       console.log("Connected Via Client Object . . .");
-      db.authenticate("dbadmin", "test", function(err, results){
+      db.authenticate("testUser", "123456", function(err, results){
         if (err){
           console.log("Authentication failed . . .");
           client.close();
